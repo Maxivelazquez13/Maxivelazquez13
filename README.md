@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-<a target="_blank" align="center">
-  <img top="500" height="200" width="full" alt="GIF" src="2.png">
+<a align="center">
+  <img height="200" src="2.png">
 </a>
 
 
