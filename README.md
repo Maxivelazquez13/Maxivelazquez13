@@ -12,6 +12,11 @@
 <br>
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+Hi! I’m Maxi, a Systems Engineering student passionate about web and software development, and enthusiastic about everything related to IT and technology.
+
+🚀 I’m constantly looking for opportunities to learn, grow, and apply my skills through hands-on projects and innovative solutions.
+
+📂 On this GitHub portfolio, you’ll find projects that showcase my experience with web development (Angular, Tailwind CSS, JavaScript, TypeScript), as well as my background in software development with Java and C++.
 
 <br>
 
