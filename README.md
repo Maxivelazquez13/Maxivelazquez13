@@ -34,7 +34,7 @@ Hi! I’m Maxi, a Systems Engineering student passionate about web and software 
 - **Frameworks**:
 <p align="left"> 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react" />
+    <img src="https://skillicons.dev/icons?i=angular" />
   </a>
 </p>
 
