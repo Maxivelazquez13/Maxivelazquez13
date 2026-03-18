@@ -1,8 +1,8 @@
-
+<!-- 
 <a align="center">
   <img height="250" width="full" src="2.png">
 </a>
-
+-->
 <br>
 
 <p align="center">
